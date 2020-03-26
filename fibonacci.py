@@ -1,3 +1,11 @@
+"""
+	Author: Edgard Diaz
+	Date: March 25th 2020
+	
+	In this code a recursive function is developed to 
+	generate the first n numbers of the Fibonacci series
+"""
+
 def  fibonacci(n):
 
 	if n == 1  or n == 0:
